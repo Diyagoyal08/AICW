@@ -52,3 +52,21 @@ decision tree
 
    
 box plot -- lower limit , upper limit , quater 1 , quater 2  , quater 3 , q3-q1 = inter quite range iqr ,  ll box k niche q1-1.5 iqr , ul box k uper - q3+1.5 iqr 
+
+NLP - 1 NLU :language translation , text classification , text summarization , sentiment analysis 
+      2 NLG : text generation 
+
+lib - NLTK , Spacy , regex
+NLP Lifecycle - 
+1. problem defination 
+2. data collection 
+3. case conversion (converting into lower case)
+4. special character removal 
+5. tokenization
+6. stop word removal : helping verb , conjunction , articiles
+7. converting words into root format : 1. stemming 2. lammetization 
+8. POS tagging 
+9. name entity recogizina5ion
+10. Convert text data into numerical data  - embedding vector generation
+11. model development 
+12. model ealution , testing
